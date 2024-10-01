@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="landing.css">
+</head>
+
+<body>
+    <header>
+        <nav class="nav">
+            <div class="logo">
+                Explore World
+            </div>
+            <div class="links">
+                <ul>
+                    <li><a href="">About Us</a></li>
+                    <li><a href="">Destination</a></li>
+                    <li><a href="">Best Offer's</a></li>
+                    <li><a href="">Collection</a></li>
+                    <li><a href="">Blogs</a></li>
+                </ul>
+            </div>
+
+            <div class="btn">
+                <button>Login</button>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="wrapper">
+
+            <div class="left">
+                <div class="heading">
+                    EXPERIENCE THE BEAUTY OF THE WORLD
+                </div>
+
+                <div class="desc">
+                    Embark on a journey to witness the breathtaking beauty of the
+                    world's wonders. Explore majestic landscapes. Vibrant cultures,
+                    and awe-inspiring vistas that captivate the senses and enrich the soul.
+                </div>
+
+                <div class="planbtn">
+                    <button>Plan a trip &#8599;</button>
+                </div>
+
+            </div>
+
+            <div class="right">
+                <div class="img">
+                    <img class="port1" src="beautiful-nature-mountain-scenery-with-flowers-free-photo.webp" alt="">
+                    <img class="port2" src="mountains-background-night-view_1165970-531.avif" alt="">
+                    <img class="port3" src="ecoconscious-travelers-exploring-pristine-nature_1079150-60158.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        </div>
+    </main>
+</body>
+
+</html>
